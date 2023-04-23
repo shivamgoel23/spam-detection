@@ -152,7 +152,7 @@
 }
 .divproduct-header {
   position: absolute;
-  width: 100%;
+  width: 100rem;
   top: 0;
   right: 0;
   left: 0;
@@ -470,7 +470,7 @@
   top: 65.5rem;
   left: 0;
   background-color: var(--color-ghostwhite-100);
-  width: 90rem;
+  width: 100rem;
   height: 34.92rem;
 }
 .major-mailbox,
@@ -682,7 +682,7 @@
   top: 135.47rem;
   left: 0;
   background-color: var(--color-ghostwhite-100);
-  width: 90rem;
+  width: 100rem;
   height: 34.92rem;
 }
 .optimize-your-content,
@@ -1047,7 +1047,7 @@
   top: 205.31rem;
   left: 0;
   background-color: var(--color-ghostwhite-100);
-  width: 90rem;
+  width: 100rem;
   height: 34.92rem;
 }
 .run-automatic-email {
@@ -1277,7 +1277,7 @@
   top: 277.77rem;
   left: 0;
   background-color: var(--color-ghostwhite-100);
-  width: 90rem;
+  width: 100rem;
   height: 34.92rem;
 }
 .subscribe-bgimagesvg-icon {
@@ -1346,7 +1346,7 @@
   top: 312.74rem;
   left: calc(50% - 720px);
   background-color: #26cb6f;
-  width: 90rem;
+  width: 100rem;
   height: 25.25rem;
   text-align: center;
   font-size: var(--font-size-13xl);
@@ -1818,7 +1818,7 @@
 .divcontainer-fluid1,
 .divrow1 {
   position: absolute;
-  width: 90rem;
+  width: 100rem;
   height: 12.48rem;
 }
 .divrow1 {
